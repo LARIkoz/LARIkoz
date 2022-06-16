@@ -11,3 +11,7 @@ WEB3 generation
 **Twitter** - https://twitter.com/Lary_Bo
 
 @FireflyFdn Ambassador
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif" width="100"/>
+</div>
