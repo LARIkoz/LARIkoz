@@ -1,16 +1,13 @@
-### Hi there 👋
+Senorita Ambassador (^.~)
 
-<!--
-**LARIkoz/LARIkoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WEB3 generation
 
-Here are some ideas to get you started:
+**Discord** - Larisa#0034
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Telegram** - http://t.me/lari_ko
+
+**Medium** - http://medium.com/@lari_ko
+
+**Twitter** - https://twitter.com/Lary_Bo
+
+@FireflyFdn Ambassador
