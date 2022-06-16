@@ -12,6 +12,6 @@ WEB3 generation
 
 @FireflyFdn Ambassador
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif" width="100"/>
 </div>
