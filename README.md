@@ -10,7 +10,9 @@ WEB3 generation
 
 **Twitter** - https://twitter.com/Lary_Bo
 
-@FireflyFdn Ambassador
+**My portfolio** - http://larik.eth.tilda.ws
+
+@FireflyFdn @PlayElumia @graphprotocol @PontemNetwork Ambassador
 
 <div id="header">
   <img src="https://media.giphy.com/media/PPgZCwZPKrLcw75EG1/giphy.gif" width="100"/>
